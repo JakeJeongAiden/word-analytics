@@ -1,6 +1,6 @@
 import Container from './Container'
 import Header from './Header'
-import Footer from './Footer'
+import Footer from './footer'
 
 function App () {
   return (
